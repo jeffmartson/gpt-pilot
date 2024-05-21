@@ -11,7 +11,7 @@ python-dotenv==1.0.0
 python-editor==1.0.4
 readchar==4.0.5
 regex==2023.6.3
-requests==2.31.0
+requests==2.32.0
 six==1.16.0
 termcolor==2.3.0
 tiktoken==0.4.0
